@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+}
+.field{
+  
+  border: 2px #03befc inset;
+  min-width: 160px;
+  max-width: 160px;
+  border-radius: 5px 3px 5px 3px;
+ margin-left: 10px;;
+}
+
+
+.cd{
+  min-height: 80%;
+  margin-left: 30%;
+  margin-top: 25px;
+  position: relative;
+}
+.footer{
+  min-height: 500px;
+  
+}
+
+.header{
+  background-color: #d61c5d;
+  background-image: linear-gradient(to right, #062c8c  , #6c90eb);
+  color:#cbeeec;
+  text-shadow: blueviolet 2px 2px inset ;  
+}
+.input{
+
+  background-color: #d61c5d;
+  background-image: linear-gradient(to right, #062c8c  , #6c90eb);
+  
+}
+.task{
+  background-color:#062c8c ;
+  color: azure;
+}
+.desc{
+background-color:#0744de ;
+color: azure;
+}
+.time{
+  background-color:#235ceb ;
+  color: azure;
+}
+.action{
+  background-color: #6c90eb;
+  color: azure;
+}
